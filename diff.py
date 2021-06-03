@@ -1,0 +1,1 @@
+print("difference of 5-2 is ",5-2)
